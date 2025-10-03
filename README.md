@@ -1,2 +1,2 @@
 # repo-public
-demo
+Application demo
