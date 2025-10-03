@@ -1,2 +1,2 @@
-# test-repo-public
+# repo-public
 test
